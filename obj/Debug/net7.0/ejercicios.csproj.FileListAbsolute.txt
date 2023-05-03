@@ -1,0 +1,71 @@
+C:\Users\camil\Downloads\ejercicios\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\camil\Downloads\ejercicios\bin\Debug\net7.0\appsettings.json
+C:\Users\camil\Downloads\ejercicios\bin\Debug\net7.0\ejercicios.exe
+C:\Users\camil\Downloads\ejercicios\bin\Debug\net7.0\ejercicios.deps.json
+C:\Users\camil\Downloads\ejercicios\bin\Debug\net7.0\ejercicios.runtimeconfig.json
+C:\Users\camil\Downloads\ejercicios\bin\Debug\net7.0\ejercicios.dll
+C:\Users\camil\Downloads\ejercicios\bin\Debug\net7.0\ejercicios.pdb
+C:\Users\camil\Downloads\ejercicios\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\camil\Downloads\ejercicios\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\camil\Downloads\ejercicios\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\camil\Downloads\ejercicios\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\camil\Downloads\ejercicios\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\camil\Downloads\ejercicios\obj\Debug\net7.0\ejercicios.csproj.AssemblyReference.cache
+C:\Users\camil\Downloads\ejercicios\obj\Debug\net7.0\ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\Downloads\ejercicios\obj\Debug\net7.0\ejercicios.AssemblyInfoInputs.cache
+C:\Users\camil\Downloads\ejercicios\obj\Debug\net7.0\ejercicios.AssemblyInfo.cs
+C:\Users\camil\Downloads\ejercicios\obj\Debug\net7.0\ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\camil\Downloads\ejercicios\obj\Debug\net7.0\ejercicios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\camil\Downloads\ejercicios\obj\Debug\net7.0\ejercicios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\camil\Downloads\ejercicios\obj\Debug\net7.0\staticwebassets\msbuild.ejercicios.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\camil\Downloads\ejercicios\obj\Debug\net7.0\staticwebassets\msbuild.build.ejercicios.props
+C:\Users\camil\Downloads\ejercicios\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ejercicios.props
+C:\Users\camil\Downloads\ejercicios\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ejercicios.props
+C:\Users\camil\Downloads\ejercicios\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\camil\Downloads\ejercicios\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\camil\Downloads\ejercicios\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\camil\Downloads\ejercicios\obj\Debug\net7.0\scopedcss\bundle\ejercicios.styles.css
+C:\Users\camil\Downloads\ejercicios\obj\Debug\net7.0\ejercicios.csproj.CopyComplete
+C:\Users\camil\Downloads\ejercicios\obj\Debug\net7.0\ejercicios.dll
+C:\Users\camil\Downloads\ejercicios\obj\Debug\net7.0\refint\ejercicios.dll
+C:\Users\camil\Downloads\ejercicios\obj\Debug\net7.0\ejercicios.pdb
+C:\Users\camil\Downloads\ejercicios\obj\Debug\net7.0\ejercicios.genruntimeconfig.cache
+C:\Users\camil\Downloads\ejercicios\obj\Debug\net7.0\ref\ejercicios.dll
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\bin\Debug\net7.0\appsettings.json
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\bin\Debug\net7.0\ejercicios.exe
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\bin\Debug\net7.0\ejercicios.deps.json
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\bin\Debug\net7.0\ejercicios.runtimeconfig.json
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\bin\Debug\net7.0\ejercicios.dll
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\bin\Debug\net7.0\ejercicios.pdb
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\obj\Debug\net7.0\ejercicios.csproj.AssemblyReference.cache
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\obj\Debug\net7.0\ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\obj\Debug\net7.0\ejercicios.AssemblyInfoInputs.cache
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\obj\Debug\net7.0\ejercicios.AssemblyInfo.cs
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\obj\Debug\net7.0\ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\obj\Debug\net7.0\ejercicios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\obj\Debug\net7.0\ejercicios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\obj\Debug\net7.0\staticwebassets\msbuild.ejercicios.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\obj\Debug\net7.0\staticwebassets\msbuild.build.ejercicios.props
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ejercicios.props
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ejercicios.props
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\obj\Debug\net7.0\scopedcss\bundle\ejercicios.styles.css
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\obj\Debug\net7.0\ejercicios.csproj.CopyComplete
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\obj\Debug\net7.0\ejercicios.dll
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\obj\Debug\net7.0\refint\ejercicios.dll
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\obj\Debug\net7.0\ejercicios.pdb
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\obj\Debug\net7.0\ejercicios.genruntimeconfig.cache
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\obj\Debug\net7.0\ref\ejercicios.dll
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\bin\Debug\net7.0\out\web.config
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\bin\Debug\net7.0\out\appsettings.Development.json
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\bin\Debug\net7.0\out\appsettings.json
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\bin\Debug\net7.0\out\ejercicios.deps.json
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\bin\Debug\net7.0\out\ejercicios.runtimeconfig.json

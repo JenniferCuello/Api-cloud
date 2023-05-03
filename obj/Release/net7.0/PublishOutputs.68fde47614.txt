@@ -1,0 +1,12 @@
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\out\ejercicios.exe
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\out\appsettings.Development.json
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\out\appsettings.json
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\out\ejercicios.dll
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\out\ejercicios.deps.json
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\out\ejercicios.runtimeconfig.json
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\out\ejercicios.pdb
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\out\Microsoft.OpenApi.dll
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jennifer Cuello\Documents\NOVENO SEMESTRE\PROCESOS AGILES\CREANDO UN API\out\Swashbuckle.AspNetCore.SwaggerUI.dll
