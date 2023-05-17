@@ -9,19 +9,19 @@ EXPOSE 443
 ###########################################################
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build  
 WORKDIR /src
-COPY ["CREANDO UN API.csproj", "."]
-RUN dotnet restore "./CREANDO UN API.csproj"
+COPY ["ejercicios.csproj", "."]
+RUN dotnet restore "./ejercicios.csproj"
 COPY . .
 WORKDIR "/src/."
-RUN dotnet build "CREANDO UN API.csproj" -c Release -o /app/build
+RUN dotnet build "ejercicios.csproj" -c Release -o /app/build
 
 #Imagen Publish
 ############################################################
 FROM build AS publish
-RUN dotnet publish "CREANDO UN API.csproj" -c Release -o /app/publish
+RUN dotnet publish "ejercicios.csproj" -c Release -o /app/publish
 
 #Mover Publish a Final
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "CREANDO UN API.dll"]
+ENTRYPOINT ["dotnet", "ejercicios.csproj.dll"]
